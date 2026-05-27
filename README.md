@@ -1,5 +1,8 @@
 # zap-ws
 
+> **Docs:** [Multi-stream pubsub over ZAP](https://zap-proto.dev/docs/transports) · part of the [ZAP Protocol](https://zap-proto.io)
+
+
 Multi-stream pubsub over ZAP — per-stream FEC, no head-of-line blocking.
 
 [**zap-proto.io**](https://zap-proto.io) · [Spec](https://github.com/zap-proto/spec) · [Paper](https://github.com/zap-proto/papers/tree/main/streaming-tail-latency) · [Discord](https://zap-proto.io/discord)

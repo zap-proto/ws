@@ -1,6 +1,6 @@
 # zap-ws
 
-> **Docs:** [Multi-stream pubsub over ZAP](https://zap-proto.dev/docs/transports) · part of the [ZAP Protocol](https://zap-proto.io)
+> **Docs:** [Multi-stream pubsub over ZAP](https://zap-proto.dev/docs/protocols/ws) · part of the [ZAP Protocol](https://zap-proto.io)
 
 
 Multi-stream pubsub over ZAP — per-stream FEC, no head-of-line blocking.
